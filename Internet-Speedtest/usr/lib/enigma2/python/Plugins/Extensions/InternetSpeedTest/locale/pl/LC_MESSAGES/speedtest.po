@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: internet-speedtest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2023-01-11 14:20+0100\n"
+"Last-Translator: paps\n"
+"Language-Team: paps\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Server list"
+msgstr "Serwery"
+
+msgid "I check the available servers"
+msgstr "Sprawdzam dostępne serwery"
+
+msgid "Choose server and press ok"
+msgstr "Wybierz serwer i naciśnij OK"
+
+msgid "Download speedtest.png failed!"
+msgstr "Pobieranie speedtest.png nie powiodło się!"
+
+msgid "Exit"
+msgstr "Zakończ"
+
+msgid "I check Internet speedtest, be patient..."
+msgstr "Sprawdzam prędkość Internetu, cierpliwości..."
+
+msgid "Repeat test"
+msgstr "Powtórz test"
+
+msgid "Result successfully saved in /tmp/speedtest.png"
+msgstr "Wynik został pomyślnie zapisany w pliku /tmp/speedtest.png"
+
+msgid "Save results"
+msgstr "Zapisz wynik testu"
+
+msgid "Show results"
+msgstr "Pokaż wynik testu"
+
+msgid "Test completed, to test again press green button"
+msgstr "Test zakończony, aby powtórzyć wciśnij zielony przycisk"
+
+msgid "Test your internet speed by Madhouse"
+msgstr "Test szybkości Internetu by Madhouse"
+
+msgid "Testing download from"
+msgstr "Testuję prędkość pobierania z"
+
+msgid "Testing upload speed"
+msgstr "Testuję prędkość wysyłania"
+
+msgid "No matched servers: %s"
+msgstr "Brak dopasowanych serwerów: %s"
